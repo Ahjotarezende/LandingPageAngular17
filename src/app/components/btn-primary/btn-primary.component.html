@@ -1,0 +1,20 @@
+<button
+  (click)="submit()"
+  [class]="'btn ' + classVariant"
+  [disabled]="disabled"
+>
+  @if (!loading) { @if (classVariant === 'primary'){
+  <a
+    routerLink="/contact"
+    ariaCurrentWhenActive="page"
+  >
+    {{ btnText }}
+  </a>
+  } @else {
+  <span>
+    {{ btnText }}
+  </span>
+  } } @else {
+  <span> carregando... </span>
+  }
+</button>

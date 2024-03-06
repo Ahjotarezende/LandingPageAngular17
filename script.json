@@ -1,0 +1,107 @@
+{
+  "101 (kba_previdencia)": {
+    "nome": "KBA Previdência",
+    "id": "101 (kba_previdencia)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "201 (cadastro_basico)": {
+    "nome": "Cadastro Básico",
+    "id": "201 (cadastro_basico)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "301 (servidor_publico)": {
+    "nome": "Servidor Público",
+    "id": "301 (servidor_publico)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "401 (biovalid_facial)": {
+    "nome": "Biovalid Facial",
+    "id": "401 (biovalid_facial)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "501 (balcao_sat_previdencia)": {
+    "nome": "Balcao SAT Previdência",
+    "id": "501 (balcao_sat_previdencia)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "502 (balcao_denatran)": {
+    "nome": "Balcão Denatran",
+    "id": "502 (balcao_denatran)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "503 (balcao_correios)": {
+    "nome": "Balcão Correios",
+    "id": "503 (balcao_correios)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "504 (balcao_cadastro_presencial_govbr)": {
+    "nome": "Balcão Cadastro Presencial GovBr",
+    "id": "504 (balcao_cadastro_presencial_govbr)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "601 (balcao_nai_previdencia)": {
+    "nome": "Balcao NAI Previdência",
+    "id": "601 (balcao_nai_previdencia)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "609 (agi_bank_internet_banking)": {
+    "nome": "AGI Bank Internet Banking",
+    "id": "609 (agi_bank_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "602 (bb_internet_banking)": {
+    "nome": "BB Internet Banking",
+    "id": "602 (bb_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "603 (banrisul_internet_banking)": {
+    "nome": "Banrisul Internet Banking",
+    "id": "603 (banrisul_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "604 (bradesco_internet_banking)": {
+    "nome": "Bradesco Internet Banking",
+    "id": "604 (bradesco_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "605 (caixa_internet_banking)": {
+    "nome": "Caixa Internet Banking",
+    "id": "605 (caixa_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "606 (brb_internet_banking)": {
+    "nome": "Brb Internet Banking",
+    "id": "606 (brb_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "610 (itau_internet_banking)": {
+    "nome": "Itau Internet Banking",
+    "id": "610 (itau_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "607 (sicoob_internet_banking)": {
+    "nome": "Sicoob Internet Banking",
+    "id": "607 (sicoob_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "624 (sicred_internet_banking)": {
+    "nome": "Sicred Internet Banking",
+    "id": "624 (sicred_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "608 (santander_internet_banking)": {
+    "nome": "Santander Internet Banking",
+    "id": "608 (santander_internet_banking)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "701 (tse_facial)": {
+    "nome": "TSE Facial",
+    "id": "701 (tse_facial)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  },
+  "801 (certificado_digital)": {
+    "nome": "Certificado Digital",
+    "id": "801 (certificado_digital)",
+    "dataAtualizacao": "(Mostra a data e hora que ocorreu atualização da confiabilidade na conta do usuário. A mascará será YYYY-MM-DD HH:MM:SS)"
+  }
+}

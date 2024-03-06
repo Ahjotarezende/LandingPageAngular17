@@ -1,0 +1,17 @@
+<section class="form">
+  <div class="text">
+    <h3>Fique por dentro das tendências</h3>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed mollitia
+      labore, praesentium debitis harum iure quas? Cum iste, molestias repellendus
+      voluptates velit ducimus unde, dolores modi natus dolor quaerat praesentium.
+    </p>
+  </div>
+  <form [formGroup]="newForm">
+    <label for="name">Name</label>
+    <input type="text" id="name" formControlName="name"/>
+    <label for="email">Email</label>
+    <input type="text" id="email" formControlName="email"/>
+    <app-btn-primary btn-text="Se inscreva" classVariant="secondary" (submit)="onSubmit()" [disabled]="newForm.invalid" [loading]="loading()"></app-btn-primary>
+  </form>
+</section>

@@ -1,0 +1,59 @@
+<style>
+  section {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    color: #606060;
+  }
+  h1 {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+
+  .search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .input-config {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    label {
+      font-size: 10px;
+    }
+    input {
+      border-radius: 5px;
+      border: 2px solid #606060;
+      font-size: 24px;
+    }
+  }
+
+  .search-button {
+    color: #FFF;
+    background-image: linear-gradient(to bottom,#337ab7 0,#265a88 100%);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+</style>
+
+<section>
+  <h1>Consultar Processos</h1>
+  <p>Consulte informações sobre seus documentos e processos</p>
+  <div class="search-bar">
+    <div class="input-config">
+      <input type="text">
+      <label>Pesquisa avançada</label>
+    </div>
+    <button class="search-button">Pesquisar</button>
+  </div>
+</section>
